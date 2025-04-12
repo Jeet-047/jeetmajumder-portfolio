@@ -40,7 +40,7 @@ This internship has helped me:
 
 ---
 
-📄 **Certificate:** [View Certificate](./certificate-of-internship.png)
+📄 **Certificate:** ![View Certificate](./certificate-of-internship.png)
 
 ---
 
