@@ -4,6 +4,6 @@ Developed a machine learning-based prediction system to assess the likelihood of
 
 🔗 **GitHub Repo:** [View Full Code Here](https://github.com/jeetmajumder/supervised-heart-disease-detection)
 
-📌 Tech Stack: Python, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn
+📌 Tech Stack: Python, Scikit-learn, Pandas, NumPy, Matplotlib, ensemble, xgboost
 
 📷 Screenshots available in `../../assets/images/`
